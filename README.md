@@ -1,2 +1,2 @@
 # sdet_testing
-This is SDET testing dummy Repo
+This is SDET testing dummy Repository
